@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/manansaini21" target="blank"><img src="https://img.shields.io/twitter/follow/manansaini21?logo=twitter&style=for-the-badge" alt="manansaini21" /></a> </p>
 
-- 🔭 I’m currently working on **Web development and blockchain**
+- 🔭 I’m currently working on **Go Programming and kubernetes**
 
-- 🌱 I’m currently learning **Django, mernStack**
+- 🌱 I’m currently learning **kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manan1979](https://github.com/manan1979)
 
-- 💬 Ask me about **Android and Web**
+- 💬 Ask me about **GO adn Web**
 
 - 🤝 Here is my twitter account **https://twitter.com/manansaini21**
 
